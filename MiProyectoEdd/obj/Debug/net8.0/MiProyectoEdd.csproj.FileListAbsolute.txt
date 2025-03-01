@@ -1,0 +1,17 @@
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/bin/Debug/net8.0/MiProyectoEdd
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/bin/Debug/net8.0/MiProyectoEdd.deps.json
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/bin/Debug/net8.0/MiProyectoEdd.runtimeconfig.json
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/bin/Debug/net8.0/MiProyectoEdd.dll
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/bin/Debug/net8.0/MiProyectoEdd.pdb
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/obj/Debug/net8.0/MiProyectoEdd.GeneratedMSBuildEditorConfig.editorconfig
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/obj/Debug/net8.0/MiProyectoEdd.AssemblyInfoInputs.cache
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/obj/Debug/net8.0/MiProyectoEdd.AssemblyInfo.cs
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/obj/Debug/net8.0/MiProyectoEdd.csproj.CoreCompileInputs.cache
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/obj/Debug/net8.0/MiProyectoEdd.dll
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/obj/Debug/net8.0/refint/MiProyectoEdd.dll
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/obj/Debug/net8.0/MiProyectoEdd.pdb
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/obj/Debug/net8.0/MiProyectoEdd.genruntimeconfig.cache
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/obj/Debug/net8.0/ref/MiProyectoEdd.dll
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/obj/Debug/net8.0/MiProyectoEdd.csproj.AssemblyReference.cache
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/ubuntu/Desktop/proyecto/MiProyectoEdd/obj/Debug/net8.0/MiProyectoEdd.csproj.CopyComplete
